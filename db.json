@@ -104,7 +104,36 @@
 		"meaning": "The All-Prevailing One",
 		"explanation": "The Dominant, The One who has the perfect Power and is not unable over anything.",
 		"dua": "O Allah, Al-Qahhar, we know that You overpower everything. Make us of those who bow to You in Islam, adorn us with apprehension of You, and aid us to surrender our hearts and our actions to You only. Make us ponder Your power, abandon our sins, and be kind to the weak, ameen!"
+	},
+	{
+		"id":16,
+		"name": "Al-Wahhab",
+		"meaning": "The Supreme Bestower",
+		"explanation": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram.",
+		"dua": "O Allah, Al-Wahhab, we know You are the Giver of all gifts. Make us of those who are grateful for Your gifts and use them to please You, and adorn us with love for You. Make us ponder Your gifts, inspire us to give gifts to others, and give us from Your mercy that overwhelms us in this present world and the world to come. Verily, You are the best giver of gifts, ameen!"
+	},
+	{
+		"id":17,
+		"name": "Ar-Razzaq",
+		"meaning": "The Total Provider",
+		"explanation": "The Sustainer, The Provider.",
+		"dua": "O Allah, Ar-Razzaq, we know that You are the one and only Provider. Make us of those who are content with Your provisions, guide us to work hard and use Your provisions wisely, and make us ponder them. Lead us to deeds that increase Your rizq and enter us into Your gardens by Your rahmah so we can enjoin the best of Your provisions, ameen!"
+	},
+	{
+		"id":18,
+		"name": "Al-Fattah",
+		"meaning": "The Opener",
+		"explanation": "The Solver, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters.",
+		"dua": "O Allah, Al-Fattah, we know that You open to us every closed gate according to Your wisdom. Open our hearts, open for us the doors to all that is good in this life, help us to trust on You as our judge, inspire us to ask You only to open any door for us— physical, spiritual, big, or small— and to open for us the door of Your mercy and open for us the gates to Your Paradise, ameen!"
+	},
+	{
+		"id":19,
+		"name": "Al-'Alim",
+		"meaning": "The All-Knowing One",
+		"explanation": "The Knowledgeable; The One nothing is absent from His knowledge.",
+		"dua": "O Allah, Al-'Alim, we know nothing but what You teach us. Instil in us eagerness to learn, guide us to the best knowledge, increase our knowledge and make us benefit from it, and guide us to act upon our 'ilm by doing what pleases You and staying away from what displeases You. Make us contemplate ourselves and the creation around us, and assist us in accepting your decree at all times, ameen!"
 	}
+		
   ],
 	"hisnames": {
 		"names": "99names"
